@@ -4,6 +4,9 @@ import java.util.*;// Importing all the classes in the particular package
 public class PhoneBooktester {  
   /**  
    * @param args the command line arguments
+   * @author Amir Faiyaz
+   * @Brac University
+   * @CSE220 : Data Structure
    */
   
   public static void main(String[] args) {
@@ -28,7 +31,7 @@ public class PhoneBooktester {
            System.out.println("4. Exit");
            int in = sc.nextInt();//Integer int stores the option choosen by the user  
            
-           x = t.runEngine(in);//Integer x wiil store the return value
+           x = t.runEngine(in);//Integer x wil store the return value
            
          }
        }
