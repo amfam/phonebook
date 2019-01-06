@@ -47,6 +47,7 @@ public class PhoneBookengine {
       System.out.println("Please choose a new option to proceed.");
       return 0;
     } else{
+      System.out.println(" Exiting  Now  . Thank you for your trial");
       System.exit(0);
     }
     return 0;
